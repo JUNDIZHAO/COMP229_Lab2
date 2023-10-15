@@ -1,0 +1,1 @@
+module.exports = {url:"mongodb+srv://lab2admin:1234@dressstore.bqmssen.mongodb.net/DressStore?retryWrites=true&w=majority"};
